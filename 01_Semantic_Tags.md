@@ -1,10 +1,10 @@
 # Semantic tags
-Semantics is the study of reference, meaning, or truth. A semantic HTML element clearly describes its meaning to both the browser, user, search engine, and the developer. According to Bruce Lawson, the semantic use of HTML elements “enhances accessibility, searchability, internationalization, and interoperability.”
+Semantics is the study of reference, meaning, or truth. A semantic HTML element clearly describes the meaning to the browser, user, search engine, and developer. According to Bruce Lawson, the semantic use of HTML elements “enhances accessibility, searchability, internationalization, and interoperability.”
 
-HTML was originally created as a markup language to describe documents on the early internet, but now it consists of a lot of design and interactive elements and we must make sure this content is readable to both humans and machines (browser, serach engine bots, assistive technologies).
+HTML was created as a markup language to describe documents on the early internet. Now it has a lot of design and interactive elements and we must make sure this content is readable to both humans and machines (browser, search engine bots, assistive technologies).
 
 ## Benefit of writing Sematic HTML code
-- Markup code is Easy to read and consistent code
+- HTML markup will be easy to read, and code is consistent
 - Web becomes more accessible since computers are better able to analyze its contents, index it, deliver it
 - Accessible to Search engines and assistive technologies (like screen readers, translation tools for users with a sight impairment), understand the context and content of your website.
 
