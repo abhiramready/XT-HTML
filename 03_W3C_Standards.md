@@ -10,6 +10,12 @@ The W3C has started the Web Accessibility Initiative to define guidelines for al
 - User Agent Accessibility Guidelines for user agents (browsers and plugins) ensuring they communicate with other assistive technologies
 - Authoring Tool Accessibility Guidelines to make accessible authoring tools used by (developers, designers, and creators) so that everyone can create content on the web.
 
+## Points to remember
+- Web for the people and by the people
+- Important/fundamental features of the web should never be behind a paywall (this is why W3C will remain an open and independent community)
+- W3C will consider all kinds of users to express their needs and problems on the web (Users with disabilities, poor internet connections, or old devices with lower compute power)
+- As developers, we need to be mindful that we can shape the web right from the beginning
+
 ## Resources
 - https://www.w3.org/standards/
 - https://www.youtube.com/watch?v=20SHvU2PKsM
