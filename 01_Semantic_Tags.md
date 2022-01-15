@@ -8,7 +8,7 @@ HTML was created as a markup language to describe documents on the early interne
 - Web becomes more accessible since computers are better able to analyze its contents, index it, deliver it
 - Accessible to Search engines and assistive technologies (like screen readers, translation tools for users with a sight impairment), understand the context and content of your website.
 
-## Things to remember
+## Points to remember
 - For example: if you add a header don't forget to add a footer and although different websites have different layouts and structures with the help of semantic tags we must try to provide a consistent user experience for all kinds of users.
 - Fig. caption vs Alt, they differ from the fact that one is an **alt**ernative (when the image can't be seen) while the other one is a (*fig*)**caption** (and always visible).
 - Never use markup/semantic tags for styling (like headings)
