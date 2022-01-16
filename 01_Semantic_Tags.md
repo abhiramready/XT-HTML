@@ -1,4 +1,4 @@
-# Semantic tags
+# Semantic Tags
 Semantics is the study of reference, meaning, or truth. A semantic HTML element clearly describes the meaning to the browser, user, search engine, and developer. According to Bruce Lawson, the semantic use of HTML elements “enhances accessibility, searchability, internationalization, and interoperability.”
 
 HTML was created as a markup language to describe documents on the early internet. Now it has a lot of design and interactive elements and we must make sure this content is readable to both humans and machines (browser, search engine bots, assistive technologies).
