@@ -3,3 +3,4 @@
 2. [SEO - Search Engine Optimization](https://github.com/abhiramready/XT-HTML/blob/main/02_SEO.md)
 3. [W3C Standards](https://github.com/abhiramready/XT-HTML/blob/main/03_W3C_Standards.md)
 4. [Accessibility](https://github.com/abhiramready/XT-HTML/blob/main/04_Accessibility.md)
+5. [Atomic Design Principles](https://github.com/abhiramready/XT-HTML/blob/main/05_Atomic_Design_Principles.md)
