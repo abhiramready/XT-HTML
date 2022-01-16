@@ -1,6 +1,6 @@
 # Accessibility
 
-According to MDN, accessibility is the practice of making your websites usable by as many people as possible. Access by everyone regardless of disability is an essential aspect*,* Tim Berners-Lee, W3C Director and inventor of the World Wide Web. The World Health Organization's Disability and health fact sheet states that "Over a billion people, about 15% of the world's population, have some form of disability". Developers, designers, and content creators ~ accessibility is everyone's responsibility.
+According to MDN, accessibility is the practice of making your websites usable by as many people as possible. Access by everyone regardless of disability is an essential aspect - Tim Berners-Lee, W3C Director and inventor of the World Wide Web. The World Health Organization's Disability and health fact sheet states that "Over a billion people, about 15% of the world's population, have some form of disability". Developers, designers, and content creators ~ accessibility is everyone's responsibility.
 
 ## Assistive software
 
@@ -37,10 +37,20 @@ There are different validators and software to check for accessibility and areas
 - Use the WAVE tool (browser plugin) to check for compliance
 - Color and contrast in chrome dev tools
 
-## Notes
+## Examples of Accessibility for everyone
+Though we don't realize we already use and need accessible web/content everyday for example,
+
+- Captions are handy in a quiet or loud environment
+- Hight Contrast content is easily readable under bright sunlight
+- Alt tags for media help with slow internet
+- Large text size is easy to read for everyone
+
+## Points to remember
 
 - Use Headings only for hierarchy and not their size
 - Like many projects now use web components and these components are re-used multiple times, we must make sure they are accessible right from the beginning
+- Even social sites ask us to add alt for images (LinkedIn, Instagram), authors/creators also need to take responsibility to make accessible content
+-  To improve accessibility, WAI-ARIA provides Web developers with the option to add the following semantic information to Web pages and rich Internet widgets which are then exposed to the browser
 
 ## Resources
 
