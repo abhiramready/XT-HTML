@@ -16,7 +16,7 @@ The W3C has started the Web Accessibility Initiative to define guidelines for al
 - W3C will consider all kinds of users to express their needs and problems on the web (Users with disabilities, poor internet connections, or old devices with lower compute power)
 - As developers, we need to be mindful that we can shape the web right from the beginning
 
-## Resources
+## References
 - https://www.w3.org/standards/
 - https://www.youtube.com/watch?v=20SHvU2PKsM
 - https://www.w3.org/WAI/standards-guidelines/atag/
