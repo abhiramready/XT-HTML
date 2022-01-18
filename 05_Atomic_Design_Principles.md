@@ -54,6 +54,6 @@ Pages are specific instances of templates, pages provide a hub for everyone to g
 
 ## References
 
-- [https://bradfrost.com/blog/post/atomic-web-design/](https://bradfrost.com/blog/post/atomic-web-design/)
+- [https://bradfrost.com/blog/post/atomic-web-design/](https://bradfrost.com/blog/post/atomic-web-design/) (must read!)
 - [https://www.youtube.com/watch?v=W3A33dmp17E](https://www.youtube.com/watch?v=W3A33dmp17E)
 - [https://www.youtube.com/watch?v=q7b1W47Fbng](https://www.youtube.com/watch?v=q7b1W47Fbng)
