@@ -24,7 +24,7 @@ HTML was created as a markup language to describe documents on the early interne
 <article>
 ```
 
-## Resources
+## References
 - [https://html.com/semantic-markup/](https://html.com/semantic-markup/)
 - [https://www.w3schools.com/html/html5_semantic_elements.asp](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [https://developer.mozilla.org/en-US/docs/Web/HTML/Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
