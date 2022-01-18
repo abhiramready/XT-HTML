@@ -52,7 +52,7 @@ Though we don't realize we already use and need accessible web/content everyday 
 - Even social sites ask us to add alt for images (LinkedIn, Instagram), authors/creators also need to take responsibility to make accessible content
 -  To improve accessibility, WAI-ARIA provides Web developers with the option to add the following semantic information to Web pages and rich Internet widgets which are then exposed to the browser
 
-## Resources
+## References
 
 - [https://www.youtube.com/watch?v=TomOQYxFnrU](https://www.youtube.com/watch?v=TomOQYxFnrU)
 - [https://www.youtube.com/watch?v=cOmehxAU_4s](https://www.youtube.com/watch?v=cOmehxAU_4s)
