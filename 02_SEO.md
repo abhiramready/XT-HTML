@@ -31,7 +31,7 @@ Now there can be many competitor sites or companies against our site, all of us 
 - Only text is indexable by bots, therefore focus on the text that appears as soon as we land on a page
 - Maintain sitemaps: Sitemap is an XML file that has a list of all the URLs of a site, this helps search engine bots to quickly index(read) the latest content
 
-## Resources
+## References
 - [https://en.wikipedia.org/wiki/PageRank](https://en.wikipedia.org/wiki/PageRank)
 - [https://www.youtube.com/watch?v=-B58GgsehKQ](https://www.youtube.com/watch?v=-B58GgsehKQ)
 - [https://livecodestream.dev/post/essential-guide-to-seo-for-web-developers/](https://livecodestream.dev/post/essential-guide-to-seo-for-web-developers/)
