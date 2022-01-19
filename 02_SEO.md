@@ -32,7 +32,7 @@ Now there can be many competitor sites or companies against our site, all of us 
 - Maintain sitemaps: Sitemap is an XML file that has a list of all the URLs of a site, this helps search engine bots to quickly index(read) the latest content
 
 ## References
-- [https://en.wikipedia.org/wiki/PageRank](https://en.wikipedia.org/wiki/PageRank)
-- [https://www.youtube.com/watch?v=-B58GgsehKQ](https://www.youtube.com/watch?v=-B58GgsehKQ)
-- [https://livecodestream.dev/post/essential-guide-to-seo-for-web-developers/](https://livecodestream.dev/post/essential-guide-to-seo-for-web-developers/)
-- [https://hackernoon.com/seo-web-development-tutorial-for-beginners-7273308b6448](https://hackernoon.com/seo-web-development-tutorial-for-beginners-7273308b6448)
+- [PageRank - Wikipedia](https://en.wikipedia.org/wiki/PageRank)
+- [SEO for Developers in 100 Seconds - Fireship](https://www.youtube.com/watch?v=-B58GgsehKQ) 🎥 ⭐
+- [Essential guide to SEO for web developers](https://livecodestream.dev/post/essential-guide-to-seo-for-web-developers/)
+- [SEO Web Development Tutorial for Beginners](https://hackernoon.com/seo-web-development-tutorial-for-beginners-7273308b6448)
