@@ -18,6 +18,6 @@ The W3C has started the Web Accessibility Initiative to define guidelines for al
 
 ## References
 - [Standards - W3C](https://www.w3.org/standards/)
-- [Introduction to Web Accessibility and W3C Standards - W3C](https://www.youtube.com/watch?v=20SHvU2PKsM) 🎥⭐
+- [Introduction to Web Accessibility and W3C Standards - W3C](https://www.youtube.com/watch?v=20SHvU2PKsM) 🎥⭐⭐
 - [Authoring Tool Accessibility Guidelines (ATAG) Overview - W3C](https://www.w3.org/WAI/standards-guidelines/atag/)
 - [Web Accessibility Initiative](https://www.wikiwand.com/en/Web_Accessibility_Initiative)
