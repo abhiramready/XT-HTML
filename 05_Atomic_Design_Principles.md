@@ -54,6 +54,6 @@ Pages are specific instances of templates, pages provide a hub for everyone to g
 
 ## References
 
-- [https://bradfrost.com/blog/post/atomic-web-design/](https://bradfrost.com/blog/post/atomic-web-design/) (must read!)
-- [https://www.youtube.com/watch?v=W3A33dmp17E](https://www.youtube.com/watch?v=W3A33dmp17E)
-- [https://www.youtube.com/watch?v=q7b1W47Fbng](https://www.youtube.com/watch?v=q7b1W47Fbng)
+- [Atomic Design - Brad Frost](https://bradfrost.com/blog/post/atomic-web-design/) ⭐⭐
+- [Atomic Design - How To Make Web and UI Design Easier - The Futur](https://www.youtube.com/watch?v=W3A33dmp17E) 🎥
+- [The Five Ws of Atomic Design - FCC](https://www.youtube.com/watch?v=q7b1W47Fbng) 🎥
