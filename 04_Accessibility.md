@@ -20,11 +20,12 @@ Web Content Accessibility Guidelines (WCAG) is developed through the W3C proces
 - Operable in different ways like keyboard, voice, etc
 - Understandable, use of clear and simple language
 - Robust, support different devices and assistive technologies
-- [https://www.w3.org/WAI/standards-guidelines/wcag/](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [WAI-ARIA basics - MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics)
 
 ## ARIA Standards (**Accessible Rich Internet Applications**)
 
-ARIA Standards define a way to make Web content and Web applications more accessible to people with disabilities. Developers can add specific attributes to our HTML elements to convey semantic information thus improving accessibility. For example, if we had to use a div as a button or checkbox we can simply add the attribute role= “button” or role=”checkbox” and this is conveyed to the assistive software. ARIA basics ([https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics)).
+ARIA Standards define a way to make Web content and Web applications more accessible to people with disabilities. Developers can add specific attributes to our HTML elements to convey semantic information thus improving accessibility. For example, if we had to use a div as a button or checkbox we can simply add the attribute role= “button” or role=”checkbox” and this is conveyed to the assistive software.
 
 ## Accessibility checks
 
@@ -54,8 +55,8 @@ Though we don't realize we already use and need accessible web/content everyday 
 
 ## References
 
-- [https://www.youtube.com/watch?v=TomOQYxFnrU](https://www.youtube.com/watch?v=TomOQYxFnrU)
-- [https://www.youtube.com/watch?v=cOmehxAU_4s](https://www.youtube.com/watch?v=cOmehxAU_4s)
-- [https://www.youtube.com/watch?v=H37zF98Er1M](https://www.youtube.com/watch?v=H37zF98Er1M)
-- [https://www.w3.org/standards/webdesign/accessibility](https://www.w3.org/standards/webdesign/accessibility)
-- [https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+- [Accessibility - The State of the Web - Google Chrome Developers](https://www.youtube.com/watch?v=TomOQYxFnrU) 🎥⭐
+- [How I do an accessibility check](https://www.youtube.com/watch?v=cOmehxAU_4s) 🎥
+- [Web Accessibility Guidelines - How to make your code Web Accessible](https://www.youtube.com/watch?v=H37zF98Er1M) 🎥
+- [Accessibility - W3C](https://www.w3.org/standards/webdesign/accessibility)
+- [What is accessibility - MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
